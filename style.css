@@ -9,16 +9,16 @@ h1{
 .orange{
     color: orange;
 }
-section{
+.flexiable-container{
     display: flex;
     margin-bottom: 150px;
 }
 .half-width{
     width: 50%;
+    padding-left: 5%;
 }
 .half-width img{
     width: 80%;
-    padding-left: 5%;
 }
 .button{
     text-decoration: none;
